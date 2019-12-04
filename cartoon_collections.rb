@@ -9,10 +9,10 @@ end
 def long_planeteer_calls(array)
 size = array.length 
 if size > 4 
- true
+ "true"
 elsif 
 size < 4
- false
+ "false"
  size 
 end 
 end
