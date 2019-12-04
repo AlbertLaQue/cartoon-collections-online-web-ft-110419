@@ -8,7 +8,7 @@ end
 
 def long_planeteer_calls(array)
 size = array.length 
-if size 
+if size(i) > 4 
  "true"
 elsif 
 size < 4
